@@ -1,0 +1,13 @@
+# Versions used to produce the thesis results (Python 3.11.15)
+numpy==2.4.4
+scipy==1.17.1
+scikit-image==0.26.0
+pandas==3.0.5
+matplotlib==3.11.1
+oiffile==2026.2.8
+tifffile==2026.3.3
+openpyxl
+cellpose==4.2.1.1
+# PyTorch 2.5.1 was used with CUDA 12.1. Install the build matching your system,
+# e.g.: pip install torch==2.5.1 --index-url https://download.pytorch.org/whl/cu121
+torch==2.5.1
