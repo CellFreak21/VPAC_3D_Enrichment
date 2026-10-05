@@ -3,7 +3,7 @@
 Quantification of receptor enrichment in subcellular compartments from 3D confocal stacks.
 
 This repository contains the image-analysis pipeline used in the doctoral thesis
-*[Thesis title]* ([Author], [University], [Year]) to measure where the VIP receptors
+"VPAC1 and VPAC2 receptor signalling and trafficking. Functional implications for human regulatory T cells" (Alicia Cabrera Martín, Universidad Complutense de Madrid, 2026) to measure where the VIP receptors
 VPAC1 and VPAC2 (EGFP fusions) accumulate in four compartments, each labelled with an
 mRuby3 marker:
 
