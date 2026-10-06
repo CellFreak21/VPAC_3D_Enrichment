@@ -111,10 +111,6 @@ Main columns: `included`, `reason` (gates failed), `enrichment_D` (primary metri
 For statistics, the field (image + acquisition session) should be used as the unit of
 analysis, summarised as the median D of its included cells.
 
-## Companion script
-
-`vpac_methods_figures.py` draws the nucleus-detection and mask-construction steps for a
-single cell and checks that every intermediate step reproduces the pipeline output.
 
 ## Limitations
 
@@ -134,7 +130,7 @@ by the authors.
 ## Citation
 
 If you use this code, please cite the thesis above and this repository
-(Zenodo DOI: [10.5281/zenodo.XXXXXXX]).
+(Zenodo DOI: [10.5281/zenodo.23173521]).
 
 Key methods: Stringer et al., *Nat Methods* 2021 (Cellpose); Costes et al., *Biophys J*
 2004 (block randomisation).
